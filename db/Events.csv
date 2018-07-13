@@ -1,2 +1,27 @@
 event_name ,no_fights ,date ,venue ,city ,attendence
-Pride 1, "October 11 ,1997"	Tokyo Dome	Tokyo, Japan	47,000
+Pride 1,7,"October 11 ,1997",Tokyo Dome,"Tokyo, Japan",47000
+Pride 2,,"March 15, 1998",Yokohama Arena,"Yokohama, Japan",6000
+Pride 3,,"June 24, 1998",Nippon Budokan,"Tokyo, Japan",4500
+Pride 4,,"October 11, 1998",Tokyo Dome,"Tokyo, Japan",36354
+Pride 5,,"April 29, 1999",Nagoya Rainbow Hall,"Nagoya, Japan",4000
+Pride 6,,"July 4, 1999",Yokohama Arena,"Yokohama, Japan",12580
+Pride 7,,"September 12, 1999",Yokohama Arena,"Yokohama, Japan",10031
+Pride 8,,"November 21, 1999",Ariake Coliseum,"Tokyo, Japan",10036
+Pride Grand Prix 2000 Opening Round,,"January 30, 2000",Tokyo Dome,"Tokyo, Japan",48316
+Pride Grand Prix 2000 Finals,9,"May 1, 2000",Tokyo Dome,"Tokyo, Japan",38429
+Pride 9,,"June 4, 2000",Nagoya Rainbow Hall,"Nagoya,Japan",6000
+Pride 10,,"August 27, 2000",Seibu Dome,"Saitama, Japan",35000
+Pride 11,,"October 31, 2000",Osaka-jo Hall,"Osaka, Japan",13500
+Pride 12,,"December 23, 2000",Saitama Super Arena,"Saitama, Japan",26882
+Pride 13,,"March 25, 2001",Saitama Super Arena,"Saitama, Japan",27000
+Pride 14,,"May 27, 2001",Yokohama Arena,"Yokohama, Japan",15326
+Pride 15,,"July 29, 2001",Saitama Super Arena,"Saitama, Japan",27323
+Pride 16,,"September 24, 2001",Osaka-jo Hall,"Osaka, Japan",14907
+Pride 17,,"November 3, 2001",Tokyo Dome,"Tokyo,Japan",53200
+Pride 18,,"December 23, 2001",Marine Messe Fukuoka,"Fukuoka, Japan",9336
+Pride The Best Vol.1,,"February 22, 2002",Korakuen Hall,"Tokyo, Japan",2000
+Pride 19,,"February 24, 2002",Saitama Super Arena,"Saitama, Japan",22380
+Pride 20,,"April 28, 2002",Yokohama Arena,"Yokohama, Japan",18926
+Pride 21,,"June 23, 2002",Saitama Super Arena,"Saitama, Japan",22586
+Pride The Best Vol.2,,"July 20, 2002",Differ Ariake Arena,"Tokyo, Japan",0
+Pride Shockwave,,"August 28, 2002",Tokyo National Stadium,"Tokyo, Japan",91107

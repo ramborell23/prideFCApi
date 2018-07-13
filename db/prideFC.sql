@@ -1,4 +1,5 @@
 
+Drop DATABASE pride_fc;
 CREATE DATABASE pride_fc;
 
 \c pride_fc;
@@ -9,13 +10,14 @@ CREATE TABLE Events
     id SERIAL PRIMARY KEY,
     event_name VARCHAR NOT NULL,
     no_fights INT,
-    date DATETIME,
+    date VARCHAR,
     venue VARCHAR,
     city VARCHAR,
     attendence INT
 );
-COPY Events(id, event_name ,no_fights ,date ,venue ,city ,attendence) 
-FROM '/draftorder.csv' DELIMITER ',' CSV HEADER;
+COPY Events
+(event_name ,no_fights ,date ,venue ,city ,attendence) 
+FROM '/Users/c4q/Documents/prideFCApi/db/Events.csv' DELIMITER ',' CSV HEADER;
 
 
 CREATE TABLE Fights
@@ -24,7 +26,7 @@ CREATE TABLE Fights
     event_id INT,
     winner VARCHAR NOT NULL,
     loser INT,
-    method DATETIME,
+    method VARCHAR,
     round VARCHAR,
     time INT,
     notes INT,
@@ -57,9 +59,10 @@ CREATE TABLE Title_Holders
     Name VARCHAR NOT NULL,
     Division VARCHAR NOT NULL,
     date DATE,
-    no_defenses INT,
+    no_defenses INT
 
 );
+
 CREATE TABLE Tournaments
 (
     event_id INT,

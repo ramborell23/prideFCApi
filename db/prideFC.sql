@@ -9,14 +9,15 @@ CREATE TABLE Events
 (
     id SERIAL PRIMARY KEY,
     event_name VARCHAR NOT NULL,
-    no_fights INT,
+    event_alias VARCHAR,
+    no_bouts INT,
     date VARCHAR,
     venue VARCHAR,
     city VARCHAR,
     attendence INT
 );
 COPY Events
-(event_name ,no_fights ,date ,venue ,city ,attendence) 
+(event_name,event_alias,no_bouts,date ,venue ,city ,attendence) 
 FROM '/Users/c4q/Documents/prideFCApi/db/Events.csv' DELIMITER ',' CSV HEADER;
 
 

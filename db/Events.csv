@@ -1,69 +1,69 @@
-event_name ,no_fights ,date ,venue ,city ,attendence
-Pride 1,7,"October 11 ,1997",Tokyo Dome,"Tokyo, Japan",47000
-Pride 2,,"March 15, 1998",Yokohama Arena,"Yokohama, Japan",6000
-Pride 3,,"June 24, 1998",Nippon Budokan,"Tokyo, Japan",4500
-Pride 4,,"October 11, 1998",Tokyo Dome,"Tokyo, Japan",36354
-Pride 5,,"April 29, 1999",Nagoya Rainbow Hall,"Nagoya, Japan",4000
-Pride 6,,"July 4, 1999",Yokohama Arena,"Yokohama, Japan",12580
-Pride 7,,"September 12, 1999",Yokohama Arena,"Yokohama, Japan",10031
-Pride 8,,"November 21, 1999",Ariake Coliseum,"Tokyo, Japan",10036
-Pride Grand Prix 2000 Opening Round,,"January 30, 2000",Tokyo Dome,"Tokyo, Japan",48316
-Pride Grand Prix 2000 Finals,9,"May 1, 2000",Tokyo Dome,"Tokyo, Japan",38429
-Pride 9,,"June 4, 2000",Nagoya Rainbow Hall,"Nagoya,Japan",6000
-Pride 10,,"August 27, 2000",Seibu Dome,"Saitama, Japan",35000
-Pride 11,,"October 31, 2000",Osaka-jo Hall,"Osaka, Japan",13500
-Pride 12,,"December 23, 2000",Saitama Super Arena,"Saitama, Japan",26882
-Pride 13,,"March 25, 2001",Saitama Super Arena,"Saitama, Japan",27000
-Pride 14,,"May 27, 2001",Yokohama Arena,"Yokohama, Japan",15326
-Pride 15,,"July 29, 2001",Saitama Super Arena,"Saitama, Japan",27323
-Pride 16,,"September 24, 2001",Osaka-jo Hall,"Osaka, Japan",14907
-Pride 17,,"November 3, 2001",Tokyo Dome,"Tokyo,Japan",53200
-Pride 18,,"December 23, 2001",Marine Messe Fukuoka,"Fukuoka, Japan",9336
-Pride The Best Vol.1,,"February 22, 2002",Korakuen Hall,"Tokyo, Japan",2000
-Pride 19,,"February 24, 2002",Saitama Super Arena,"Saitama, Japan",22380
-Pride 20,,"April 28, 2002",Yokohama Arena,"Yokohama, Japan",18926
-Pride 21,,"June 23, 2002",Saitama Super Arena,"Saitama, Japan",22586
-Pride The Best Vol.2,,"July 20, 2002",Differ Ariake Arena,"Tokyo, Japan",0
-Pride Shockwave,,"August 28, 2002",Tokyo National Stadium,"Tokyo, Japan",91107
-Pride 22,,"September 29, 2002",Nagoya Rainbow Hall,"Nagoya, Japan",9391
-"Pride FC: The Best, Vol. 3",,"October 20, 2002",Differ Ariake Arena,"Tokyo, Japan",0
-Pride 23,,"November 24, 2002",Tokyo Dome,"Tokyo, Japan",52228
-Pride 24,,"December 23, 2002",Marine Messe Fukuoka,"Fukuoka, Japan",8543
-Pride 25,,"March 16, 2003",Yokohama Arena,"Yokohama, Japan",19247
-Pride 26,,"June 8, 2003",Yokohama Arena,"Yokohama, Japan",17187
-Pride Total Elimination 2003,,"August 10, 2003",Saitama Super Arena,"Saitama, Japan",40316
-Pride Bushido 1,,"October 5, 2003",Saitama Super Arena,"Saitama, Japan",12340
-Pride Final Conflict 2003,,"November 9, 2003",Tokyo Dome,"Tokyo, Japan",67451
-Pride Shockwave 2003,,"December 31, 2003",Saitama Super Arena,"Saitama, Japan",39716
-Pride 27,,"February 1, 2004",Osaka-jo Hall,"Osaka, Japan",13366
-Pride Bushido 2,,"February 15, 2004",Yokohama Arena,"Yokohama, Japan",14117
-Pride Total Elimination 2004,,"April 25, 2004",Saitama Super Arena,"Saitama, Japan",42110
-Pride Bushido 3,,"May 23, 2004",Yokohama Arena,"Yokohama, Japan",14536
-Pride Critical Countdown 2004,,"June 20, 2004",Saitama Super Arena,"Saitama, Japan",43711
-Pride Bushido 4,,"July 19, 2004",Nagoya Rainbow Hall,"Nagoya, Japan",10892
-Pride Final Conflict 2004,,"August 15, 2004",Saitama Super Arena,"Saitama, Japan",47629
-Pride Bushido 5	,,"October 14, 2004",Osaka Castle Hall,"Osaka, Japan",0
-Pride 28,,"October 31, 2004",Saitama Super Arena,"Saitama, Japan",24028
-Pride Shockwave 2004,,"December 31, 2004",Saitama Super Arena,"Saitama, Japan",48398
-Pride 29,,"February 20, 2005",Saitama Super Arena,"Saitama, Japan",22047
-Pride Bushido 6,,"April 3, 2005",Yokohama Arena,"Yokohama, Japan",8000
-Pride Total Elimination 2005,,"April 23, 2005",Osaka Dome,"Osaka, Japan",45423
-Pride Bushido 7,,"May 22, 2005",Ariake Coliseum,"Tokyo,Japan",8861
-Pride Critical Countdown 2005,,"June 26, 2005",Saitama Super Arena,"Saitama, Japan",	35000
-Pride Bushido 8,,"July 17, 2005",Nagoya Rainbow Hall,"Nagoya, Japan",9784
-Pride Final Conflict 2005,,"August 28, 2005",Saitama Super Arena,"Saitama, Japan",35000
-Pride Bushido 9	The Tournament,,"September 25, 2005",Ariake Coliseum,"Tokyo, Japan",10775
-Pride 30,,"October 23, 2005",Saitama Super Arena,"Saitama, Japan",23776
-Pride Shockwave 2005,,"December 31, 2005",Saitama Super Arena,"Saitama, Japan",49801
-Pride 31,,"February 26, 2006",Saitama Super Arena,"Saitama, Japan",22141
-Pride Bushido 10,,"April 2, 2006",Ariake Coliseum,"Tokyo, Japan",9313
-Pride Total Elimination Absolute,,"May 5, 2006",Osaka Dome,"Osaka, Japan",43000
-Pride Bushido Survival 2006 ,,"June 4, 2006",Saitama Super Arena,"Saitama, Japan",7500
-Pride Critical Countdown Absolute,,"July 1, 2006",Saitama Super Arena,"Saitama, Japan",34000
-Pride Bushido 12,,"August 27, 2006",Nagoya Rainbow Hall,"Nagoya, Japan",9952
-Pride Final Conflict Absolute,,"September 10, 2006",Saitama Super Arena,"Saitama, Japan",35000
-Pride 32,,"October 21, 2006",Thomas & Mack Center,"Las Vegas, Nevada, United States",11727
-Pride Bushido 13,,"November 5, 2006",Yokohama Arena,"Yokohama, Japan",8000
-Pride Shockwave 2006,,"December 31, 2006",Saitama Super Arena,"Saitama, Japan",48709
-Pride 33,,"February 24, 2007",Thomas & Mack Center,"Las Vegas, Nevada, United States",12911
-Pride 34,,"April 8, 2007",Saitama Super Arena,"Saitama, Japan",23336
+event_name,event_alias,no_bouts,date,venue,city,attendence
+Pride 1,,7,"October 11 ,1997",Tokyo Dome,"Tokyo, Japan",47000
+Pride 2,,8,"March 15, 1998",Yokohama Arena,"Yokohama, Japan",6000
+Pride 3,,6,"June 24, 1998",Nippon Budokan,"Tokyo, Japan",4500
+Pride 4,,8,"October 11, 1998",Tokyo Dome,"Tokyo, Japan",36354
+Pride 5,,6,"April 29, 1999",Nagoya Rainbow Hall,"Nagoya, Japan",4000
+Pride 6,,8,"July 4, 1999",Yokohama Arena,"Yokohama, Japan",12580
+Pride 7,,8,"September 12, 1999",Yokohama Arena,"Yokohama, Japan",10031
+Pride 8,,8,"November 21, 1999",Ariake Coliseum,"Tokyo, Japan",10036
+Pride Grand Prix 2000 Opening Round,,9,"January 30, 2000",Tokyo Dome,"Tokyo, Japan",48316
+Pride Grand Prix 2000 Finals,,9,"May 1, 2000",Tokyo Dome,"Tokyo, Japan",38429
+Pride 9,New Blood,8,"June 4, 2000",Nagoya Rainbow Hall,"Nagoya,Japan",6000
+Pride 10,Return of the Warriors,10,"August 27, 2000",Seibu Dome,"Saitama, Japan",35000
+Pride 11,Battle of the Rising Sun,8,"October 31, 2000",Osaka-jo Hall,"Osaka, Japan",13500
+Pride 12,Cold Fury,9,"December 23, 2000",Saitama Super Arena,"Saitama, Japan",26882
+Pride 13,Collision Course,8,"March 25, 2001",Saitama Super Arena,"Saitama, Japan",27000
+Pride 14,Clash of the Titans,9,"May 27, 2001",Yokohama Arena,"Yokohama, Japan",15326
+Pride 15,Raging Rumble,8,"July 29, 2001",Saitama Super Arena,"Saitama, Japan",27323
+Pride 16,Beasts from the East,7,"September 24, 2001",Osaka-jo Hall,"Osaka, Japan",14907
+Pride 17,Championship Chaos,9,"November 3, 2001",Tokyo Dome,"Tokyo,Japan",53200
+Pride 18,Cold Fury 2,8,"December 23, 2001",Marine Messe Fukuoka,"Fukuoka, Japan",9336
+Pride The Best Vol.1,,6,"February 22, 2002",Korakuen Hall,"Tokyo, Japan",2000
+Pride 19,Bad Blood,8,"February 24, 2002",Saitama Super Arena,"Saitama, Japan",22380
+Pride 20,Armed and Ready,7,"April 28, 2002",Yokohama Arena,"Yokohama, Japan",18926
+Pride 21,Demolition,8,"June 23, 2002",Saitama Super Arena,"Saitama, Japan",22586
+Pride The Best Vol.2,,10,"July 20, 2002",Differ Ariake Arena,"Tokyo, Japan",0
+Pride Shockwave,,5,"August 28, 2002",Tokyo National Stadium,"Tokyo, Japan",91107
+Pride 22,Beasts from the East 2,8,"September 29, 2002",Nagoya Rainbow Hall,"Nagoya, Japan",9391
+"Pride FC: The Best, Vol. 3",,11,"October 20, 2002",Differ Ariake Arena,"Tokyo, Japan",0
+Pride 23,Championship Chaos 2,9,"November 24, 2002",Tokyo Dome,"Tokyo, Japan",52228
+Pride 24,Cold Fury 3,8,"December 23, 2002",Marine Messe Fukuoka,"Fukuoka, Japan",8543
+Pride 25,Body Blow,8,"March 16, 2003",Yokohama Arena,"Yokohama, Japan",19247
+Pride 26,Bad to the Bone,7,"June 8, 2003",Yokohama Arena,"Yokohama, Japan",17187
+Pride Total Elimination 2003,,7,"August 10, 2003",Saitama Super Arena,"Saitama, Japan",40316
+Pride Bushido 1,,11,"October 5, 2003",Saitama Super Arena,"Saitama, Japan",12340
+Pride Final Conflict 2003,,8,"November 9, 2003",Tokyo Dome,"Tokyo, Japan",67451
+Pride Shockwave 2003,,10,"December 31, 2003",Saitama Super Arena,"Saitama, Japan",39716
+Pride 27,Inferno,7,"February 1, 2004",Osaka-jo Hall,"Osaka, Japan",13366
+Pride Bushido 2,,11,"February 15, 2004",Yokohama Arena,"Yokohama, Japan",14117
+Pride Total Elimination 2004,,8,"April 25, 2004",Saitama Super Arena,"Saitama, Japan",42110
+Pride Bushido 3,,12,"May 23, 2004",Yokohama Arena,"Yokohama, Japan",14536
+Pride Critical Countdown 2004,,7,"June 20, 2004",Saitama Super Arena,"Saitama, Japan",43711
+Pride Bushido 4,,11,"July 19, 2004",Nagoya Rainbow Hall,"Nagoya, Japan",10892
+Pride Final Conflict 2004,,7,"August 15, 2004",Saitama Super Arena,"Saitama, Japan",47629
+Pride Bushido 5	,,8,"October 14, 2004",Osaka Castle Hall,"Osaka, Japan",0
+Pride 28,High Octane,9,"October 31, 2004",Saitama Super Arena,"Saitama, Japan",24028
+Pride Shockwave 2004,,11,"December 31, 2004",Saitama Super Arena,"Saitama, Japan",48398
+Pride 29,Fists of Fire,10,"February 20, 2005",Saitama Super Arena,"Saitama, Japan",22047
+Pride Bushido 6,,10,"April 3, 2005",Yokohama Arena,"Yokohama, Japan",8000
+Pride Total Elimination 2005,,8,"April 23, 2005",Osaka Dome,"Osaka, Japan",45423
+Pride Bushido 7,,10,"May 22, 2005",Ariake Coliseum,"Tokyo,Japan",8861
+Pride Critical Countdown 2005,,8,"June 26, 2005",Saitama Super Arena,"Saitama, Japan",35000
+Pride Bushido 8,,11,"July 17, 2005",Nagoya Rainbow Hall,"Nagoya, Japan",9784
+Pride Final Conflict 2005,,7,"August 28, 2005",Saitama Super Arena,"Saitama, Japan",35000
+Pride Bushido 9	The Tournament,,14,"September 25, 2005",Ariake Coliseum,"Tokyo, Japan",10775
+Pride 30,Fully Loaded,8,"October 23, 2005",Saitama Super Arena,"Saitama, Japan",23776
+Pride Shockwave 2005,,12,"December 31, 2005",Saitama Super Arena,"Saitama, Japan",49801
+Pride 31,Unbreakable,9,"February 26, 2006",Saitama Super Arena,"Saitama, Japan",22141
+Pride Bushido 10,,11,"April 2, 2006",Ariake Coliseum,"Tokyo, Japan",9313
+Pride Total Elimination Absolute,,8,"May 5, 2006",Osaka Dome,"Osaka, Japan",43000
+Pride Bushido 11,Survival 2006,11,"June 4, 2006",Saitama Super Arena,"Saitama, Japan",7500
+Pride Critical Countdown Absolute,,9,"July 1, 2006",Saitama Super Arena,"Saitama, Japan",34000
+Pride Bushido 12,,14,"August 27, 2006",Nagoya Rainbow Hall,"Nagoya, Japan",9952
+Pride Final Conflict Absolute,,9,"September 10, 2006",Saitama Super Arena,"Saitama, Japan",35000
+Pride 32,The Real Deal,8,"October 21, 2006",Thomas & Mack Center,"Las Vegas, Nevada, United States",11727
+Pride Bushido 13,,12,"November 5, 2006",Yokohama Arena,"Yokohama, Japan",8000
+Pride Shockwave 2006,,10,"December 31, 2006",Saitama Super Arena,"Saitama, Japan",48709
+Pride 33,The Second Coming,9,"February 24, 2007",Thomas & Mack Center,"Las Vegas, Nevada, United States",12911
+Pride 34,Kamikaze,8,"April 8, 2007",Saitama Super Arena,"Saitama, Japan",23336

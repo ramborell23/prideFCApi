@@ -25,21 +25,29 @@ CREATE TABLE Fights
 (
     id SERIAL PRIMARY KEY,
     event_id INT,
-    winner VARCHAR NOT NULL,
-    loser INT,
+    weight_class VARCHAR,
+    fighter_1 VARCHAR NOT NULL,
+    fighter_2 VARCHAR NOT NULL,
+    winner VARCHAR,
     method VARCHAR,
-    round VARCHAR,
-    time INT,
+    "round" VARCHAR,
+    "time" VARCHAR,
     notes INT,
     FOREIGN KEY(event_id) REFERENCES Events(id)
 );
+COPY Fights
+(event_id,weight_class,fighter_1,fighter_2,winner ,method ,"round" ,"time", notes) 
+FROM '/Users/c4q/Documents/prideFCApi/db/Fights.csv' DELIMITER ',' CSV HEADER;
+
 
 CREATE TABLE Fighters
 (
     id SERIAL PRIMARY KEY,
+    debut_year INT,
     name VARCHAR NOT NULL,
     alias VARCHAR ,
-    born VARCHAR,
+    "from" VARCHAR,
+    fighting_out_of VARCHAR,
     height VARCHAR NOT NULL,
     weight VARCHAR NOT NULL,
     record INT,
@@ -54,11 +62,16 @@ CREATE TABLE Fighters
     ldecision INT,
     notes VARCHAR
 );
+COPY Fights
+(debut_year,name,alias,"from",fighting_out_of,height ,weight ,record ,wins, loss,draw,wko,wsubmission,wdecision,
+lkO,lsubmission,ldecision,notes) 
+FROM '/Users/c4q/Documents/prideFCApi/db/Fights.csv' DELIMITER ',' CSV HEADER;
+
 
 CREATE TABLE Title_Holders
 (
-    Name VARCHAR NOT NULL,
-    Division VARCHAR NOT NULL,
+    name VARCHAR NOT NULL,
+    division VARCHAR NOT NULL,
     date DATE,
     no_defenses INT
 

@@ -1,10 +1,10 @@
 
-Drop DATABASE pride_fc;
-CREATE DATABASE pride_fc;
+Drop TABLE pride_fc;
+CREATE TABLE pride_fc;
 
 \c pride_fc;
 
-
+Drop TABLE Events, Fights CASCADE;
 CREATE TABLE Events
 (
     id SERIAL PRIMARY KEY,
@@ -20,7 +20,7 @@ COPY Events
 (event_name,event_alias,no_bouts,date ,venue ,city ,attendence) 
 FROM '/Users/c4q/Documents/prideFCApi/db/Events.csv' DELIMITER ',' CSV HEADER;
 
-
+Drop TABLE Fights;
 CREATE TABLE Fights
 (
     id SERIAL PRIMARY KEY,

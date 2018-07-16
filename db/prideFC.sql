@@ -29,10 +29,10 @@ CREATE TABLE Fights
     fighter_1 VARCHAR NOT NULL,
     fighter_2 VARCHAR NOT NULL,
     winner VARCHAR,
-    method VARCHAR,
-    "round" VARCHAR,
+    method VARCHAR NOT NULL,
+    "round" INT,
     "time" VARCHAR,
-    notes INT,
+    notes VARCHAR,
     FOREIGN KEY(event_id) REFERENCES Events(id)
 );
 COPY Fights
@@ -62,10 +62,10 @@ CREATE TABLE Fighters
     ldecision INT,
     notes VARCHAR
 );
-COPY Fights
-(debut_year,name,alias,"from",fighting_out_of,height ,weight ,record ,wins, loss,draw,wko,wsubmission,wdecision,
-lkO,lsubmission,ldecision,notes) 
-FROM '/Users/c4q/Documents/prideFCApi/db/Fights.csv' DELIMITER ',' CSV HEADER;
+-- COPY Fights
+-- (debut_year,name,alias,"from",fighting_out_of,height ,weight ,record ,wins, loss,draw,wko,wsubmission,wdecision,
+-- lkO,lsubmission,ldecision,notes) 
+-- FROM '/Users/c4q/Documents/prideFCApi/db/Fighters.csv' DELIMITER ',' CSV HEADER;
 
 
 CREATE TABLE Title_Holders

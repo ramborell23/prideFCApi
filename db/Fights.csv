@@ -2,7 +2,7 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 1,,Kazunari Murakami,John Dixson,Kazunari Murakami,Submission (Armbar),1,1:34,
 1,,Gary Goodridge,Oleg Taktarov,Gary Goodridge,KO (Punch),1,4:57,
 1,,Renzo Gracie,Akira Shoji,,Draw (time expired),3,10:00,
-1,,Koji Kitao,Nathan Jones,Koji Kitao,Submission (keylock),1,2:14,	
+1,,Koji Kitao,Nathan Jones,Koji Kitao,Submission (keylock),1,2:14,
 1,,Branko Cikatic,Ralph White,,No Contest,1,1:52,Kickboxing bout. Cikatic kicked White while on the ground.
 1,,Kimo Leopoldo,Dan Severn,,Draw (time expired),1,30:00,	
 1,,Rickson Gracie,Nobuhiko Takada,Rickson Gracie,Submission (armbar),1,4:47,	
@@ -240,3 +240,54 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 30,,Alistair Overeem,Bazigit Atajev,Alistair Overeem,TKO (Knee to the Body),2,4:59,
 30,,Kevin Randleman,Murilo Rua,Kevin Randleman,TKO (Cut),3,0:20,
 30,,Antônio Rodrigo Nogueira,Dan Henderson,Antônio Rodrigo Nogueira,Submission (Armbar),3,1:49,
+31,,Antonio Rogerio Nogueira,Antonio Rogerio Nogueira,Kazuhiro Nakamura,Submission (Armbar),2,3:49,
+31,,Akira Shoji,Alex Stiebling,Akira Shoji,Decision (Split),3,5:00,
+31,,Alexander Otsuka,Kenichi Yamamoto,Alexander Otsuka,Decision (Unanimous),3,5:00,
+31,,Anderson Silva,Carlos Newton,Anderson Silva,KO (Flying Knee and Punches),1,6:27,
+31,,Dan Henderson,Shungo Oyama,Dan Henderson,TKO (Punches),1,3:28,
+31,,Antonio Schembri,Kazushi Sakuraba,Antonio Schembri,TKO (Knees and soccer kicks),1,6:15,
+31,,Quinton Jackson,Kevin Randleman,Quinton Jackson,TKO (Punches),1,6:58,Middleweight Number 1 Contender bout
+31,Heavyweight,Fedor Emelianenko,Antônio Rodrigo Nogueira,Fedor Emelianenko,Decision (Unanimous),3,5:00,For the Pride Fighting Championship World Heavyweight Championship.
+32,,Kazuhiro Hamanaka,Antonio Schembri,Kazuhiro Hamanaka,Decision (Unanimous),3,5:00,
+32,,Daiju Takase,Anderson Silva,Daiju Takase,Submission (Triangle Choke),1,8:33,
+32,,Alistair Overeem,Mike Bencic,Alistair Overeem,Submission (Knee to the Body and Punches),1,3:44,
+32,,Quinton Jackson,Mikhail Ilyukhin,Quinton Jackson,Submission (Knee to the Body),1,6:26,
+32,,Mark Coleman,Don Frye,Mark Coleman,Decision (Unanimous),3,5:00,
+32,,Mirko Cro Cop,Heath Herring,Mirko Cro Cop,TKO (Kick to the Body and Punches),1,3:17,
+32,,Fedor Emelianenko,Kazuyuki Fujita,Fedor Emelianenko,Submission (Rear-Naked Choke),1,4:17,Non-Title bout
+33,,Fedor Emelianenko,Gary Goodridge,Fedor Emelianenko,TKO (Punches and Soccer Kicks),1,1:09,Non-Title Bout
+33,,Chuck Liddell,Alistair Overeem,Chuck Liddell,KO (Punches),1,3:09,Middleweight Grand Prix Quarterfinal bout
+33,,Quinton Jackson,Murilo Bustamante,Quinton Jackson,Decision (Split),3,5:00,Middleweight Grand Prix Quarterfinal bout
+33,,Antônio Rodrigo Nogueira,Ricco Rodriguez,Antônio Rodrigo Nogueira,Decision (Unanimous),3,5:00,
+33,,Mirko Cro Cop,Igor Vovchanchyn,Mirko Cro Cop,KO (Head Kick),1,1:29,
+33,,Hidehiko Yoshida,Kiyoshi Tamura,Hidehiko Yoshida,Submission (Ezekiel Choke),1,5:06,Middleweight Grand Prix Quarterfinal bout
+33,,Wanderlei Silva,Kazushi Sakuraba,Wanderlei Silva,KO (Punch),1,5:01,Middleweight Grand Prix Quarterfinal bout
+34,,Chris Brennan,Eiji Mitsuoka,Chris Brennan,Submission (Kimura),1,4:31,"There was a lengthy pause a couple of minutes into the fight when Brennan released an armbar, believing that Mitsuoka had tapped out. Confusion ensued amongst both camps and the officials, and with replays inconclusive, the fight was eventually restarted."
+34,,Chalid Arrab,Rodney Glunder,Chalid Arrab,Decision (Unanimous),2,5:00,
+34,,Sergei Kharitonov,Jason Suttie,Sergei Kharitonov,Submission (Armbar),1,2:25,
+34,,Carlos Newton,Renzo Gracie,Carlos Newton,Decision (Split),2,5:00,
+34,,Ralph Gracie,Dokonjonosuke Mishima,Ralph Gracie,Decision (Unanimous),2,5:00,
+34,,Kazuhiro Nakamura,Daniel Gracie,Kazuhiro Nakamura,Decision (Unanimous),2,5:00,
+34,,Rodrigo Gracie,Daiju Takase,Rodrigo Gracie,Decision (Unanimous),2,5:00,
+34,,Ryan Gracie,Kazuhiro Hamanaka,Ryan Gracie,TKO (Soccer Kicks),1,7:37,
+34,,Mauricio Rua,Akira Shoji,Mauricio Rua,KO (Punches),1,3:47,
+34,,Aleksander Emelianenko,Assuerio Silva,Aleksander Emelianenko,Decision (Split),2,5:00,
+34,,Mirko Cro Cop,Alberto Rodriguez,Mirko Cro Cop,KO (Head Kick),1,0:46,
+35,,Gary Goodridge,Dan Bobish,Gary Goodridge,TKO (Punches),1,0:18,
+35,,Quinton Jackson,Chuck Liddell,Quinton Jackson,TKO (Corner Stoppage),2,3:10,Middleweight Grand Prix Semifinal bout
+35,,Wanderlei Silva,Hidehiko Yoshida,Wanderlei Silva,Decision (Unanimous),2,5:00,Middleweight Grand Prix Semifinal bout
+35,,Dan Henderson,Murilo Bustamante,Dan Henderson,TKO (Punches),1,0:53,Middleweight Grand Prix Reserve bout
+35,,Heath Herring,Yoshihisa Yamamoto,Heath Herring,Submission (Rear-Naked Choke),3,2:29,
+35,,Kazushi Sakuraba,Kevin Randleman,Kazushi Sakuraba,Submission (Armbar),3,2:36,
+35,Heavyweight,Antônio Rodrigo Nogueira,Mirko Cro Cop,Antônio Rodrigo Nogueira,Submission (Armbar),2,1:45,For the Interim Pride Heavyweight Championship.
+35,,Wanderlei Silva,Quinton Jackson,Wanderlei Silva,TKO (Knees),1,6:28,Middleweight Grand Prix Finals bout
+36,,Quinton Jackson,Ikuhisa Minowa,Quinton Jackson,TKO (Punches),2,1:05,
+36,,Heath Herring,Paulo Cesar Silva,Heath Herring,Submission (Rear-Naked Choke),3,0:35,
+36,,Hayato Sakurai,Daiju Takase,Hayato Sakurai,Decision (Unanimous),3,5:00,
+36,,Murilo Rua,Akira Shoji,Murilo Rua,KO (Flying Knee),1,2:24,
+36,,Royce Gracie,Hidehiko Yoshida,,Draw,2,10:00,
+36,,Gary Goodridge,Don Frye,Gary Goodridge,KO (Head Kick),1,0:39,
+36,,Daniel Gracie,Wataru Sakata,Daniel Gracie,Submission (Armbar),1,7:12,
+36,,Yuki Kondo,Mario Sperry,Yuki Kondo,TKO (Doctor Stoppage),1,3:27,
+36,,Kiyoshi Tamura,Rony Sefo,Kiyoshi Tamura,Submission (Armbar),1,2:20,
+36,,Antonio Rogerio Nogueira,Kazushi Sakuraba,Antonio Rogerio Nogueira,Decision (Unanimous),3,5:00,

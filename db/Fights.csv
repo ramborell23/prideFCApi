@@ -480,3 +480,121 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 56,,Mark Hunt,Mirko Cro Cop,Mark Hunt,Decision (Split),3,5:00,
 56,Middleweight,Wanderlei Silva,Ricardo Arona,Wanderlei Silva,Decision (Split),3,5:00,For the Pride Middleweight Championship.
 56,,Hidehiko Yoshida,Naoya Ogawa,Hidehiko Yoshida,Submission (Armbar),1,6:04,
+57,,Roman Zentsov,Pedro Rizzo,KO (Punch),Roman Zentsov,1,0:25,
+57,,Quinton Jackson,Dong Sik Yoon,Quinton Jackson,Decision (Unanimous),3,5:00,
+57,,Fabrício Werdum,John Olav Einemo,Fabrício Werdum,Decision (Unanimous),3,5:00,
+57,,Tsuyoshi Kosaka,Mario Sperry,Tsuyoshi Kosaka,TKO (Punches),1,1:20,
+57,,Alistair Overeem,Sergei Kharitonov,Alistair Overeem,TKO (Knees),1,5:13,
+57,,Josh Barnett,Kazuhiro Nakamura,Josh Barnett,Submission (Rear-Naked Choke),1,8:10,
+57,,Antônio Rodrigo Nogueira,Kiyoshi Tamura,Antônio Rodrigo Nogueira,Submission (Armbar),1,2:24,
+57,,Mark Coleman,Mauricio Rua,Mark Coleman,TKO (Broken Arm),1,0:49,
+57,,Mark Hunt,Yosuke Nishijima,Mark Hunt,KO (Punch),3,1:18,
+58,,Yves Edwards,Seichi Ikemoto,Yves Edwards,Decision (Unanimous),2,5:00,
+58,,Mitsuhiro Ishida,Paul Rodriguez,Mitsuhiro Ishida,Submission (Guillotine Choke),1,2:29,
+58,,Jens Pulver,Kenji Arai,Jens Pulver,KO (Soccer Kick),1,3:59,
+58,,Denis Kang,Mark Weir,Denis Kang,Submission (Knees),1,4:55,
+58,,Joachim Hansen,Luiz Azeredo,Joachim Hansen,KO (Knee),1,7:09,
+58,,Paulo Filho,Murilo Rua,Paulo Filho,Decision (Unanimous),2,5:00,
+58,,Akihiro Gono,Dae Won Kim,Akihiro Gono,Submission (Armbar),1,9:00,
+58,,Phil Baroni,Yuki Kondo,Phil Baroni,KO (Punch),1,0:25,
+58,,Ikuhisa Minowa,Paulo Cesar Silva,Ikuhisa Minowa,TKO (Knees),1,2:23,
+58,,Dan Henderson,Kazuo Misaki,Dan Henderson,Decision (Unanimous),2,5:00,
+58,,Marcus Aurelio,Takanori Gomi,Marcus Aurelio,Technical Submission (Arm-Triangle Choke),1,4:34,
+59,Openweight,Roman Zentsov,Gilbert Yvel,Roman Zentsov,KO (Punch),1,4:55,Openweight Grand Prix Opening Round. Alternate Bout
+59,Openweight,Fabrício Werdum,Alistair Overeem,Fabrício Werdum,Submission (Kimura),2,3:43,Openweight Grand Prix Opening Round
+59,Openweight,Mark Hunt,Tsuyoshi Kosaka,Mark Hunt,TKO (Punches),2,4:15,Openweight Grand Prix Opening Round
+59,Openweight,Josh Barnett,Aleksander Emelianenko,Josh Barnett,Submission (Keylock),2,1:57,Openweight Grand Prix Opening Round
+59,Openweight,Kazuyuki Fujita,James Thompson,Kazuyuki Fujita,KO (Punch),1,8:25,Openweight Grand Prix Opening Round
+59,Openweight,Mirko Cro Cop,Ikuhisa Minowa,Mirko Cro Cop,TKO (Punches),1,1:10,Openweight Grand Prix Opening Round
+59,Openweight,Antônio Rodrigo Nogueira,Wagner da Conceicao Martins,Antônio Rodrigo Nogueira,Submission (Armbar),1,2:17,Openweight Grand Prix Opening Round
+59,Openweight,Hidehiko Yoshida,Yosuke Nishijima,Hidehiko Yoshida,Submission (Triangle Choke),1,2:33,Openweight Grand Prix Opening Round
+60,,Jason Black,Won Jin Eoh,Jason Black,TKO (Corner Stoppage),1,4:25,
+60,,Mitsuhiro Ishida,Marcus Aurelio,Mitsuhiro Ishida,Decision (Unanimous),2,5:00,
+60,,Tatsuya Kawajiri,Charles Bennett,Tatsuya Kawajiri,Submission (Kneebar),1,2:30,
+60,,Hayato Sakurai,Olaf Alfonso,Hayato Sakurai,KO (Punch),1,1:54,
+60,Welterweight,Amar Suloev,Murilo Bustamante,Amar Suloev,Decision (Unanimous),2,5:00,
+60,Welterweight,Paulo Filho,Gregory Bouchelaghem,Paulo Filho,Decision (Unanimous),2,5:00,
+60,Welterweight,Ryo Chonan,Joey Villasenor,Ryo Chonan,Decision (Split),2,5:00,
+60,Welterweight,Gegard Mousasi,Makoto Takimoto,Gegard Mousasi,TKO (Broken Eye Socket),1,5:34,
+60,Welterweight,Akihiro Gono,Hector Lombard,Akihiro Gono,Decision (Unanimous),2,5:00,
+60,Welterweight,Denis Kang,Murilo Rua,Denis Kang,KO (Punches),1,0:15,
+60,Welterweight,Kazuo Misaki,Phil Baroni,Kazuo Misaki,Decision (Unanimous),2,5:00,
+61,Heavyweight,Pawel Nastula,Edson Claas Vieira,Pawel Nastula,Submission (Armbar),1,4:33,
+61,Heavyweight,Yoshihiro Nakao,Eun-Su Lee,Yoshihiro Nakao,TKO (Doctor Stoppage),1,4:16,
+61,Light Heavyweight,Vitor Belfort,Kazuo Takahashi,Vitor Belfort,KO (Punch),1,0:36,
+61,Light Heavyweight,Antonio Rogerio Nogueira,Alistair Overeem,Antonio Rogerio Nogueira,TKO (Corner Stoppage),2,2:13,
+61,Middleweight,Kazuhiro Nakamura,Evangelista Santos,Kazuhiro Nakamura,Submission (Keylock),1,4:49,
+61,Openweight,Antônio Rodrigo Nogueira,Fabrício Werdum,Antônio Rodrigo Nogueira,Decision (Unanimous),3,5:00,Openweight Grand Prix Quarterfinals
+61,Openweight,Wanderlei Silva,Kazuyuki Fujita,Wanderlei Silva,TKO (Punches and Soccer Kicks),1,9:21,Openweight Grand Prix Quarterfinals
+61,Openweight,Josh Barnett,Mark Hunt,Josh Barnett,Submission (Kimura),1,2:02,Openweight Grand Prix Quarterfinals
+61,Openweight,Mirko Cro Cop,Hidehiko Yoshida,Mirko Cro Cop,TKO (Leg Kicks),1,7:38,Openweight Grand Prix Quarterfinals
+62,,Daisuke Nakamura,Seichi Ikemoto,Daisuke Nakamura,Submission (Armbar),1,3:36,
+62,,Hiroyuki Abe,Naoki Matsushita,,Draw,2,5:00,
+62,,Hatsu Hioki,Jeff Curran,Hatsu Hioki,Decision (Unanimous),2,5:00,
+62,,Shinya Aoki,Jason Black,Shinya Aoki,Submission (Triangle Choke),1,1:58,
+62,,Gilbert Melendez,Nobuhiro Obiya,Gilbert Melendez,Decision (Unanimous),2,5:00,
+62,,Tatsuya Kawajiri,Chris Brennan,Tatsuya Kawajiri,TKO (Knee and Punches),1,0:29,
+62,,Mitsuhiro Ishida,Cristiano Marcello,Mitsuhiro Ishida,Decision (Unanimous),2,5:00,
+62,,Hayato Sakurai,Luciano Azevedo,Hayato Sakurai,TKO (Doctor Stoppage),1,4:35,
+62,,Ikuhisa Minowa,Eric Esch,Ikuhisa Minowa,Submission (Armbar),1,4:25,
+62,,Takanori Gomi,David Baron,Takanori Gomi,Submission (Rear-Naked Choke),1,7:10,
+62,Welterweight,Denis Kang,Amar Suloev,Denis Kang,Submission (Rear-Naked Choke),1,4:10,Welterweight Grand Prix Quarterfinals
+62,Welterweight,Paulo Filho,Ryo Chonan,Paulo Filho,Submission (Armbar),1,2:30,Welterweight Grand Prix Quarterfinals
+62,Welterweight,Akihiro Gono,Gegard Mousasi,Akihiro Gono,Submission (Armbar),2,4:24,Welterweight Grand Prix Quarterfinals
+62,Welterweight,Kazuo Misaki,Dan Henderson,Kazuo Misaki,Decision (Unanimous),2,5:00,Welterweight Grand Prix Quarterfinals
+63,Middleweight,Evangelista Santos,Yosuke Nishijima,Evangelista Santos,Submission (Rear-Naked Choke),1,3:24,
+63,Heavyweight,Aleksander Emelianenko,Sergei Kharitonov,Aleksander Emelianenko,TKO (Punches),1,6:45,
+63,Super Heavyweight,Ricardo Morais,Tae Hyun Lee,Ricardo Morais,TKO (Corner Stoppage),1,8:08,
+63,Middleweight,Kazuhiro Nakamura,Yoshihiro Nakao,Kazuhiro Nakamura,Decision (Unanimous),3,5:00,
+63,Light Heavyweight,Mauricio Rua,Cyrille Diabate,Mauricio Rua,TKO (Stomps),1,5:29,
+63,Light Heavyweight,Ricardo Arona,Alistair Overeem,Ricardo Arona,Submission (Punches),1,4:28,
+63,Openweight,Mirko Cro Cop,Wanderlei Silva,Mirko Cro Cop,KO (Head Kick),1,5:26,Openweight Grand Prix Semifinals
+63,Openweight,Josh Barnett,Antônio Rodrigo Nogueira,Josh Barnett,Decision (Split),2,5:00,Openweight Grand Prix Semifinals
+63,Openweight,Mirko Cro Cop,Josh Barnett,Mirko Cro Cop,Submission (Punches),1,5:32,Openweight Grand Prix Finals
+64,Middleweight,Robbie Lawler,Joey Villasenor,Robbie Lawler,KO (flying knee),1,0:22,
+64,Light Heavyweight,Kazuhiro Nakamura,Travis Galbraith,Kazuhiro Nakamura,TKO (punches),2,1:16,
+64,Catchweight (195lb),Phil Baroni,Yosuke Nishijima,Phil Baroni,Technical Submission (kimura),1,3:20,
+64,Light Heavyweight,Dan Henderson,Vitor Belfort,Dan Henderson,Decision (unanimous),3,5:00,Belfort failed post-fight drug test
+64,Super Heavyweight,Eric Esch,Sean O'Haire,Eric Esch,TKO (punches),1,0:29,
+64,Heavyweight,Josh Barnett,Pawel Nastula,Josh Barnett,Submission (toe hold),2,3:04,Nastula failed post-fight drug test
+64,Light Heavyweight,Mauricio Rua,Kevin Randleman,Mauricio Rua,Submission (kneebar),1,2:35,Randleman failed post-fight drug test
+64,Heavyweight,Fedor Emelianenko,Mark Coleman,Fedor Emelianenko,Submission (armbar),2,1:15,Non-title bout
+65,Middleweight,Murilo Bustamante,Dong Sik Yoon,Murilo Bustamante,Decision (Unanimous),2,5:00,
+65,Lightweight,Luiz Firmino,Nobuhiro Obiya,Luiz Firmino,Decision (Unanimous),2,5:00,
+65,Bantamweight,Joe Pearson,Yoshiro Maeda,Joe Pearson,Submission (Guillotine Choke),1,0:54,
+65,Middleweight,Sanae Kikuta,Jean-Francois Lenogue,Sanae Kikuta,Decision (Unanimous),2,5:00,
+65,Heavyweight,Ikuhisa Minowa,Mike Plotcheck,Ikuhisa Minowa,Decision (Unanimous),2,5:00,
+65,Lightweight,Mitsuhiro Ishida,David Bielkheden,Mitsuhiro Ishida,Decision (Unanimous),2,5:00,
+65,Lightweight,Shinya Aoki,Clay French,Shinya Aoki,Submission (Flying Triangle Choke),1,3:57,
+65,Lightweight,Takanori Gomi,Marcus Aurelio,Takanori Gomi,Decision (Split),2,5:00,For the Pride Fighting Championship World Lightweight Championship.
+65,Welterweight,Gegard Mousasi,Hector Lombard,Gegard Mousasi,Decision (Unanimous),2,5:00,Welterweight Grand Prix Alternate bout
+65,Welterweight,Denis Kang,Akihiro Gono,Denis Kang,Decision (Unanimous),2,5:00,Welterweight Grand Prix Semifinals
+65,Welterweight,Paulo Filho,Kazuo Misaki,Paulo Filho,Submission (Armbar),1,9:43,"Welterweight Grand Prix Semifinals. Paulo Filho dropped from the Grand Prix due to injuries sustained during his bout with Kazuo Misaki, who replaced him in the final round against Denis Kang."
+65,Welterweight,Kazuo Misaki,Denis Kang,Kazuo Misaki,Decision (Split),2,5:00,Welterweight Grand Prix Finals
+66,Welterweight,Kiyoshi Tamura,Ikuhisa Minowa,Kiyoshi Tamura,KO (soccer kicks),1,1:18,
+66,Lightweight,Shinya Aoki,Joachim Hansen,Shinya Aoki,Submission (gogoplata),1,2:24,
+66,Welterweight,Akihiro Gono,Yuki Kondo,Akihiro Gono,Decision (split),2,5:00,
+66,Middleweight,Mauricio Rua,Kazuhiro Nakamura,Mauricio Rua,Decision (unanimous),3,5:00,
+66,Lightweight,Gilbert Melendez,Tatsuya Kawajiri,Gilbert Melendez,Decision (unanimous),2,5:00,
+66,Heavyweight,Kazuyuki Fujita,Eldar Kurtanidze,Kazuyuki Fujita,Submission (punches),1,2:09,
+66,Lightweight,Takanori Gomi,Mitsuhiro Ishida,Takanori Gomi,TKO (soccer kicks and punches),1,1:14,Non-title bout.
+66,Heavyweight,James Thompson,Hidehiko Yoshida,James Thompson,TKO (punches),1,7:50,
+66,Heavyweight,Antônio Rodrigo Nogueira,Josh Barnett,Antônio Rodrigo Nogueira,Decision (unanimous),3,5:00,
+66,Heavyweight,Fedor Emelianenko,Mark Hunt,Fedor Emelianenko,Submission (kimura),1,8:16,For the Pride Heavyweight Championship.
+67,Lightweight,Joachim Hansen,Jason Ireland,Joachim Hansen,Submission (armbar),3,2:33,
+67,Catchweight (210 lbs),James Lee,Travis Wiuff,James Lee,Submission (guillotine choke),1,0:39,
+67,Middleweight,Frank Trigg,Kazuo Misaki,Frank Trigg,Decision (unanimous),3,5:00,
+67,Heavyweight,Sergei Kharitonov,Mike Russow,Sergei Kharitonov,Submission (armbar),1,3:46,
+67,Light Heavyweight,Rameau Thierry Sokoudjou,Antonio Rogerio Nogueira,Rameau Thierry Sokoudjou,KO (punch),1,0:23,
+67,Catchweight (164 lbs),Hayato Sakurai,Mac Danzig,Hayato Sakurai,KO (punch),2,4:01,
+67,Light Heavyweight,Maurício Rua,Alistair Overeem,Maurício Rua,KO (punches),1,3:37,
+67,Lightweight,Nick Diaz,Takanori Gomi,,No Contest,2,1:46,Originally a submission win for Diaz by gogoplata; later changed to No Contest by the Nevada State Athletic Commission after Diaz tested positive for marijuana in a post-fight drug test
+67,Middleweight,Dan Henderson,Wanderlei Silva,Dan Henderson,KO (punches),3,2:08,For the Pride Middleweight Championship
+68,Heavyweight,Jeff Monson,Kazuyuki Fujita,Jeff Monson,Submission (rear-naked choke),1,6:47,
+68,Light Heavyweight,Rameau Thierry Sokoudjou,Ricardo Arona,Rameau Thierry Sokoudjou,KO (punch),1,1:59,
+68,Lightweight,Shinya Aoki,Brian Lo-A-Njoe,Shinya Aoki,Submission (armbar),1,1:33,
+68,Heavyweight,James Thompson,Don Frye,James Thompson,TKO (punches),1,6:23,
+68,Heavyweight,Gilbert Yvel,Akira Shoji,Gilbert Yvel,TKO (punches),1,3:04,
+68,Middleweight,Makoto Takimoto,Zelg Galesic,Makoto Takimoto,Submission (kimura),1,5:40,
+68,Heavyweight,Eric Esch,Zuluzinho,Eric Esch,Submission (americana),1,2:35,
+68,Heavyweight,Yoshihiro Nakao,Edson Drago,Yoshihiro Nakao,Submission (neck crank),1,9:51,

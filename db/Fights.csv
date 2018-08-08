@@ -49,7 +49,7 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 7,,Akira Shoji,Larry Parker,Akira Shoji,Decision (unanimous),3,5:00,
 7,,Maurice Smith,Branko Cikatic,Maurice Smith,Submission (forearm choke),1,7:33,
 7,,Wanderlei Silva,Carl Malenko,Wanderlei Silva,Decision (unanimous),2,10:00,
-7,,Daijiro Matsui,Bob Schrijber,,DQ (illegal kick),1,10:00, Matsui defeated Schrijber via DQ (illegal kick) at 10:00 of round 1. Schrijber delivered an axe kick to the back of Matsui's head after the bell.
+7,,Daijiro Matsui,Bob Schrijber,Daijiro Matsui,DQ (illegal kick),1,10:00,Matsui defeated Schrijber via DQ (illegal kick) at 10:00 of round 1. Schrijber delivered an axe kick to the back of Matsui's head after the bell.
 8,,Renzo Gracie,Alexander Otsuka,Renzo Gracie,Unanimous Decision,2,10:00,
 8,,Kazushi Sakuraba,Royler Gracie,Kazushi Sakuraba,Technical Submission (Kimura),2,13:16,This marked the first time a member of the Gracie Family had been defeated in a mixed martial arts bout.
 8,,Igor Vovchanchyn,Francisco Bueno,Igor Vovchanchyn,KO (Punch),1,1:23,
@@ -228,7 +228,7 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 29,,Ricardo Arona,Murilo Rua,Ricardo Arona,Decision (Unanimous),3,5:00,
 29,,Fedor Emelianenko,Heath Herring,Fedor Emelianenko,TKO (Doctor Stoppage),1,10:00,
 29,,Antônio Rodrigo Nogueira,Semmy Schilt,Antônio Rodrigo Nogueira,Submission (Triangle Choke),1,6:36,
-29,,Middleweight,Wanderlei Silva,Hiromitsu Kanehara,TKO (Corner Stoppage),1,3:40,For The Pride Fighting Championship World Middleweight Championship
+29,Middleweight,Wanderlei Silva,Hiromitsu Kanehara,Wanderlei Silva,TKO (Corner Stoppage),1,3:40,For The Pride Fighting Championship World Middleweight Championship
 29,,Hidehiko Yoshida,Don Frye,Hidehiko Yoshida,Technical Submission (Armbar),1,5:32,
 29,,Kiyoshi Tamura,Nobuhiko Takada,Kiyoshi Tamura,KO (Punch),2,1:00,
 29,,Kazushi Sakuraba,Gilles Arsene,Kazushi Sakuraba,Submission (Armbar),3,2:08,
@@ -256,12 +256,12 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 32,,Mirko Cro Cop,Heath Herring,Mirko Cro Cop,TKO (Kick to the Body and Punches),1,3:17,
 32,,Fedor Emelianenko,Kazuyuki Fujita,Fedor Emelianenko,Submission (Rear-Naked Choke),1,4:17,Non-Title bout
 33,,Fedor Emelianenko,Gary Goodridge,Fedor Emelianenko,TKO (Punches and Soccer Kicks),1,1:09,Non-Title Bout
-33,,Chuck Liddell,Alistair Overeem,Chuck Liddell,KO (Punches),1,3:09,Middleweight Grand Prix Quarterfinal bout
-33,,Quinton Jackson,Murilo Bustamante,Quinton Jackson,Decision (Split),3,5:00,Middleweight Grand Prix Quarterfinal bout
+33,Middleweight,Chuck Liddell,Alistair Overeem,Chuck Liddell,KO (Punches),1,3:09,Middleweight Grand Prix Quarterfinal bout
+33,Middleweight,Quinton Jackson,Murilo Bustamante,Quinton Jackson,Decision (Split),3,5:00,Middleweight Grand Prix Quarterfinal bout
 33,,Antônio Rodrigo Nogueira,Ricco Rodriguez,Antônio Rodrigo Nogueira,Decision (Unanimous),3,5:00,
 33,,Mirko Cro Cop,Igor Vovchanchyn,Mirko Cro Cop,KO (Head Kick),1,1:29,
-33,,Hidehiko Yoshida,Kiyoshi Tamura,Hidehiko Yoshida,Submission (Ezekiel Choke),1,5:06,Middleweight Grand Prix Quarterfinal bout
-33,,Wanderlei Silva,Kazushi Sakuraba,Wanderlei Silva,KO (Punch),1,5:01,Middleweight Grand Prix Quarterfinal bout
+33,Middleweight,Hidehiko Yoshida,Kiyoshi Tamura,Hidehiko Yoshida,Submission (Ezekiel Choke),1,5:06,Middleweight Grand Prix Quarterfinal bout
+33,Middleweight,Wanderlei Silva,Kazushi Sakuraba,Wanderlei Silva,KO (Punch),1,5:01,Middleweight Grand Prix Quarterfinal bout
 34,,Chris Brennan,Eiji Mitsuoka,Chris Brennan,Submission (Kimura),1,4:31,"There was a lengthy pause a couple of minutes into the fight when Brennan released an armbar, believing that Mitsuoka had tapped out. Confusion ensued amongst both camps and the officials, and with replays inconclusive, the fight was eventually restarted."
 34,,Chalid Arrab,Rodney Glunder,Chalid Arrab,Decision (Unanimous),2,5:00,
 34,,Sergei Kharitonov,Jason Suttie,Sergei Kharitonov,Submission (Armbar),1,2:25,
@@ -274,13 +274,13 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 34,,Aleksander Emelianenko,Assuerio Silva,Aleksander Emelianenko,Decision (Split),2,5:00,
 34,,Mirko Cro Cop,Alberto Rodriguez,Mirko Cro Cop,KO (Head Kick),1,0:46,
 35,,Gary Goodridge,Dan Bobish,Gary Goodridge,TKO (Punches),1,0:18,
-35,,Quinton Jackson,Chuck Liddell,Quinton Jackson,TKO (Corner Stoppage),2,3:10,Middleweight Grand Prix Semifinal bout
-35,,Wanderlei Silva,Hidehiko Yoshida,Wanderlei Silva,Decision (Unanimous),2,5:00,Middleweight Grand Prix Semifinal bout
-35,,Dan Henderson,Murilo Bustamante,Dan Henderson,TKO (Punches),1,0:53,Middleweight Grand Prix Reserve bout
+35,Middleweight,Quinton Jackson,Chuck Liddell,Quinton Jackson,TKO (Corner Stoppage),2,3:10,Middleweight Grand Prix Semifinal bout
+35,Middleweight,Wanderlei Silva,Hidehiko Yoshida,Wanderlei Silva,Decision (Unanimous),2,5:00,Middleweight Grand Prix Semifinal bout
+35,Middleweight,Dan Henderson,Murilo Bustamante,Dan Henderson,TKO (Punches),1,0:53,Middleweight Grand Prix Reserve bout
 35,,Heath Herring,Yoshihisa Yamamoto,Heath Herring,Submission (Rear-Naked Choke),3,2:29,
 35,,Kazushi Sakuraba,Kevin Randleman,Kazushi Sakuraba,Submission (Armbar),3,2:36,
 35,Heavyweight,Antônio Rodrigo Nogueira,Mirko Cro Cop,Antônio Rodrigo Nogueira,Submission (Armbar),2,1:45,For the Interim Pride Heavyweight Championship.
-35,,Wanderlei Silva,Quinton Jackson,Wanderlei Silva,TKO (Knees),1,6:28,Middleweight Grand Prix Finals bout
+35,Middleweight,Wanderlei Silva,Quinton Jackson,Wanderlei Silva,TKO (Knees),1,6:28,Middleweight Grand Prix Finals bout
 36,,Quinton Jackson,Ikuhisa Minowa,Quinton Jackson,TKO (Punches),2,1:05,
 36,,Heath Herring,Paulo Cesar Silva,Heath Herring,Submission (Rear-Naked Choke),3,0:35,
 36,,Hayato Sakurai,Daiju Takase,Hayato Sakurai,Decision (Unanimous),3,5:00,
@@ -353,7 +353,7 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 43,,Ron Waterman,Kevin Randleman,Ron Waterman,Submission (Keylock),1,7:44,
 43,,Mirko Cro Cop,Aleksander Emelianenko,Mirko Cro Cop,KO (Head Kick and Punches),1,2:09,
 43,,Wanderlei Silva,Yuki Kondo,Wanderlei Silva,KO (Stomps),1,2:46,
-43,,Fedor Emelianenko,Antônio Rodrigo Nogueira,,No Contest - Accidental Cut,1,3:52,
+43,,Fedor Emelianenko,Antônio Rodrigo Nogueira,,No Contest - Accidental Cut,1,3:52,"The tournament finals initially occurred at Final Conflict, but ended in a no-contest doctor's stoppage and were rescheduled for Pride: Shockwave 2004."
 44,,Mauricio Rua,Yasuhito Namekawa,Mauricio Rua,TKO (Punches),1,6:02,
 44,,Henry Miller,Mal Foki,Henry Miller,KO (Punches),1,0:21,
 44,,Luiz Firmino,Masakazu Imanari,Luiz Firmino,Decision (Unanimous),2,5:00,
@@ -381,7 +381,7 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 46,,Dan Henderson,Yuki Kondo,Dan Henderson,Decision (Split),3,5:00,
 46,,Takanori Gomi,Jens Pulver,Takanori Gomi,KO (Punch),1,6:21,
 46,,Mark Hunt,Wanderlei Silva,Mark Hunt,Decision (Split),3,5:00,
-46,Heavyweight,Fedor Emelianenko,Antônio Rodrigo Nogueira,Fedor Emelianenko,Decision (Unanimous),3,5:00,For the Pride Fighting Championship World Heavyweight Championship.
+46,Heavyweight,Fedor Emelianenko,Antônio Rodrigo Nogueira,Fedor Emelianenko,Decision (Unanimous),3,5:00,"For the Pride Fighting Championship World Heavyweight Championship.The tournament finals initially occurred at Final Conflict, but ended in a no-contest doctor's stoppage and were rescheduled for Pride: Shockwave 2004."
 47,,Mario Sperry,Hirotaka Yokoi,Mario Sperry,TKO (Knees),1,9:08,
 47,,Fabrício Werdum,Tom Erikson,Fabrício Werdum,Submission (Rear-Naked Choke),1,5:11,
 47,,Mauricio Rua,Hiromitsu Kanehara,Mauricio Rua,TKO (Stomp),1,1:40,
@@ -474,7 +474,7 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 56,,Sanae Kikuta,Makoto Takimoto,Sanae Kikuta,Decision (Unanimous),3,5:00,
 56,,Aleksander Emelianenko,Pawel Nastula,Aleksander Emelianenko,Submission (Rear-Naked Choke),1,8:45,
 56,,Fedor Emelianenko,Wagner da Conceicao Martins,Fedor Emelianenko,Submission (Punches),1,0:26,
-56,,Welterweight,Dan Henderson,Murilo Bustamante,Decision (Split),2,5:00,Welterweight Tournament Finals. For the Pride Fighting Championship World Welterweight Championship.
+56,Welterweight,Dan Henderson,Murilo Bustamante,Dan Henderson,Decision (Split),2,5:00,Welterweight Tournament Finals. For the Pride Fighting Championship World Welterweight Championship.
 56,Lightweight,Takanori Gomi,Hayato Sakurai,Takanori Gomi,KO (Punches),1,3:56,Lightweight Tournament Finals. For the Pride Fighting Championship World Lightweight Championship.
 56,,Kazushi Sakuraba,Ikuhisa Minowa,Kazushi Sakuraba,Technical Submission (Kimura),1,9:59,
 56,,Mark Hunt,Mirko Cro Cop,Mark Hunt,Decision (Split),3,5:00,
@@ -596,5 +596,5 @@ event_id,weight_class,fighter_1,fighter_2,winner,method,round,time,notes
 68,Heavyweight,James Thompson,Don Frye,James Thompson,TKO (punches),1,6:23,
 68,Heavyweight,Gilbert Yvel,Akira Shoji,Gilbert Yvel,TKO (punches),1,3:04,
 68,Middleweight,Makoto Takimoto,Zelg Galesic,Makoto Takimoto,Submission (kimura),1,5:40,
-68,Heavyweight,Eric Esch,Zuluzinho,Eric Esch,Submission (americana),1,2:35,
-68,Heavyweight,Yoshihiro Nakao,Edson Drago,Yoshihiro Nakao,Submission (neck crank),1,9:51,
+68,Heavyweight,Eric Esch,Wagner da Conceicao Martins,Eric Esch,Submission (americana),1,2:35,
+68,Heavyweight,Yoshihiro Nakao,Edson Claas Vieira,Yoshihiro Nakao,Submission (neck crank),1,9:51,
